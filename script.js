@@ -10,6 +10,7 @@ function secondLargetNumber(numbers){
     }
     return second;
   }
+  console.log("Tu puta madre yimbo")
   let nums=[8,4,10,9,11];
   console.log(secondLargetNumber(nums))
 
